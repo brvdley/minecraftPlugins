@@ -1,0 +1,5 @@
+name: Listeners
+version: 1.0
+author: BrvdleyOwens
+main: com.brvdleyowens.listeners.Main
+description: This outputs a message to chat whenever a player joins the server.

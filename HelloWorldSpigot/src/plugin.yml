@@ -1,0 +1,10 @@
+name: HelloWorldSpigot
+version: 1.0
+author: BrvdleyOwens
+main: com.brvdleyowens.helloworld.Main
+description: This outputs hello to the player.
+
+commands:
+  hello:
+    aliases: [hi]
+    description: This is the hello command.
